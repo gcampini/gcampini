@@ -12,6 +12,7 @@
 - Développement & Conception serveur
   - Java SE
   - C#, .NET, EF Core
+  - SQL Server, MySQL, NoSQL
 
 <img src="stack.png" alt="Stack" style="width: 100%;" />
 
