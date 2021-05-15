@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**gcampini/gcampini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+21 ans, étudiant et développeur en alternance @ MIAGE Aix-Marseille.
 
-Here are some ideas to get you started:
+## Mon stack
+- Développement Web
+  - HTML5, CSS3, JS, Sass, Typescript
+  - Vue.js, React, Svelte
+  - Bootstrap, jQuery, TailwindCSS
+  - Wordpress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Développement & Conception serveur
+  - Java SE
+  - C#, .NET, EF Core
+
+<img src="stack.png" alt="Stack" style="width: 100%;" />
+
+---
+[![Github Follow](https://img.shields.io/github/followers/gcampini?color=000000&label=Github&logo=Github&style=for-the-badge)](https://github.com/HakkaOfDev)
+[![Linkedin Follow](https://img.shields.io/static/v1?label=Linkedin&message=Gil%20Campini&color=0896EC&logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/gil-campini-7657921b7/)
+[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Gil™%238371&color=7289DA&logo=Discord&style=for-the-badge)]()
