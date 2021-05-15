@@ -1,6 +1,6 @@
 ## Hello 👋
 
-21 ans, étudiant et développeur en alternance @ MIAGE Aix-Marseille.
+21 ans, étudiant et développeur en alternance @ MIAGE Aix-Marseille Université.
 
 ## Mon stack 💻
 - Développement Web
