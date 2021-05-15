@@ -2,7 +2,7 @@
 
 21 ans, étudiant et développeur en alternance @ MIAGE Aix-Marseille.
 
-## Mon stack
+## Mon stack 💻
 - Développement Web
   - HTML5, CSS3, JS, Sass, Typescript
   - Vue.js, React, Svelte
