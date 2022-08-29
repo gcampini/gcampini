@@ -1,6 +1,6 @@
 ## Hello 👋
 
-21 ans, étudiant et développeur en alternance @ MIAGE Aix-Marseille Université.
+Ingénieur logiciel DevOps spécialisé dans le Web. 
 
 ## Mon stack 💻
 - Développement Web
