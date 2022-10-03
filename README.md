@@ -1,12 +1,13 @@
 ## Hello 👋
 
-Ingénieur logiciel DevOps spécialisé dans le Web. 
+Ingénieur logiciel DevOps spécialisé dans le Web.
 
-## Mon stack 💻
+## Ma stack 💻
 - Développement Web
   - HTML5, CSS3, JS, Sass, Typescript
   - Vue.js, React, Svelte
   - Bootstrap, jQuery, TailwindCSS
+  - Python Django
   - Wordpress
 
 - Développement & Conception serveur
